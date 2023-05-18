@@ -15,3 +15,5 @@ box.addEventLisetener('click',(e)=>)
 '''
 
 - 네이버: <https://naver.com/>
+
+![배경이미지](/img/pic.jpg)
